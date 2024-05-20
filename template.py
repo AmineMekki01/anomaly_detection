@@ -11,7 +11,7 @@ from pathlib import Path
 import logging
 
 
-project_name = "log-det"
+project_name = "logDet"
 
 list_of_files = [
     ".github/workflows/.gitkeep",

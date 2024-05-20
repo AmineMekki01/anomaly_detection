@@ -1,0 +1,9 @@
+data_params:
+  path_to_data: artifacts/data/
+  hdfs_file_name: hdfs_log_100K
+  log_file_name:  HDFS_log.csv
+  labels_file_name: HDFS_labels.csv
+  test_ratio: 0.2
+  train_ratio: 0.8
+  random_partition: True
+  train_anomaly_ratio: 1.0
